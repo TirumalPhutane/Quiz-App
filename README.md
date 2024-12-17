@@ -1,10 +1,10 @@
-# 📱 Quiz App - Flutter  
+# Quiz App - Flutter  
 
 A simple and interactive Quiz App built using **Flutter**. This app allows users to answer quiz questions, view their results, and see the correct answers for questions they got wrong.
 
 ---
 
-## 🎯 Features  
+## Features  
 
 - **Home Page to Start Quiz**  
   - The app welcomes users with a clean initial screen to begin the quiz.  
@@ -26,28 +26,41 @@ A simple and interactive Quiz App built using **Flutter**. This app allows users
 
 ---
 
-## 🛠️ Tech Stack  
+## Tech Stack  
 
 - **Framework**: Flutter  
 - **Language**: Dart  
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
-## 📂 Project Structure
+## Project Structure
+```
 lib/
-├── main.dart           # Entry point of the app
-├── pages/
-│   ├── home_page.dart  # Initial page to start the quiz
-│   ├── quiz_page.dart  # Quiz question display logic
-│   └── results_page.dart # Displays results and correct answers
+├── main.dart                  # Entry point of the app
+├── quiz.dart.dart             # Quiz question display logic
+├── questions_screen.dart      
+├── results_screen.dart        # Displays results and correct answers
+├── start_screen.dart          # Initial page to start the quiz
+├── summary.dart               
+├── summary_item.dart          # Custom Widget
+├── answer_button.dart         # Custom Widget
+├── question_identifier.dart   
+├── data/
+│   └── questions.dart  # List of Questions
 └── models/
-    └── question.dart   # Question model
+    └── quiz_question.dart   # Question model class
+```
 
 
-## 📈 Future Improvements
+## Future Improvements
 - Add a timer for each question.
 - Integrate categories and difficulty levels for questions.
 - Include a scoring system.
 - Fetch quiz questions dynamically using an API.
+
+## Author
+Tirumal Phutane
+
+- LinkedIn: [Tirumal Phutane](https://www.linkedin.com/in/tirumal-phutane-09543915a/)
