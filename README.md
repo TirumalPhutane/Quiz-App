@@ -48,9 +48,9 @@ lib/
 ├── answer_button.dart         # Custom Widget
 ├── question_identifier.dart   
 ├── data/
-│   └── questions.dart  # List of Questions
+│   └── questions.dart         # List of Questions
 └── models/
-    └── quiz_question.dart   # Question model class
+    └── quiz_question.dart     # Question model class
 ```
 
 
