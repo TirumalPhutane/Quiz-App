@@ -2,8 +2,6 @@
 
 A simple and interactive Quiz App built using **Flutter**. This app allows users to answer quiz questions, view their results, and see the correct answers for questions they got wrong.
 
----
-
 ## Features  
 
 - **Home Page to Start Quiz**  
@@ -23,15 +21,6 @@ A simple and interactive Quiz App built using **Flutter**. This app allows users
 
 - **Cross-Platform Support**  
   - Works seamlessly on both Android and iOS devices.  
-
----
-
-## Tech Stack  
-
-- **Framework**: Flutter  
-- **Language**: Dart  
-
----
 
 ## Screenshots
 
