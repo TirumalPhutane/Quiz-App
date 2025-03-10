@@ -2,25 +2,15 @@
 
 A simple and interactive Quiz App built using **Flutter**. This app allows users to answer quiz questions, view their results, and see the correct answers for questions they got wrong.
 
-## Features  
-
-- **Home Page to Start Quiz**  
-  - The app welcomes users with a clean initial screen to begin the quiz.  
-
-- **Multiple Quiz Questions**  
-  - Users can attempt a set of quiz questions one by one.  
-
-- **Results Page**  
-  - After answering all questions, users are shown:  
+## Key Features  
+- The app welcomes users with a clean initial screen to begin the quiz.  
+- Users can attempt a set of quiz questions one by one.  
+- After answering all questions, users are shown:  
     - **Correct answers**: Questions answered correctly.  
     - **Wrong answers**: Questions answered incorrectly.  
     - **Correct answers for wrong questions**: Helps users learn and improve.
-
-- **User-Friendly Interface**  
-  - Smooth navigation with an intuitive UI built using Flutter.  
-
-- **Cross-Platform Support**  
-  - Works seamlessly on both Android and iOS devices.  
+- Smooth navigation with an intuitive UI built using Flutter.  
+- Works seamlessly on both Android and iOS devices.  
 
 ## Screenshots
 
